@@ -1731,8 +1731,8 @@
   {
     "asset": "XXBT",
     "currency": "ZEUR",
-    "min_size": "0.01",
-    "increment": "0.01",
+    "min_size": "0.1",
+    "increment": "0.1",
     "label": "XBT/EUR"
   },
   {

@@ -60,6 +60,9 @@ function addProduct(base, quote, altname) {
   case 'USDT':
     min_size = '5'
     break;
+  case 'ZEUR':
+    min_size = '0.1'
+    break;
   default:
     break;
   }
